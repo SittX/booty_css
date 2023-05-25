@@ -1,0 +1,22 @@
+@import url("container.css");
+@import url("card.css");
+@import url("footer.css");
+@import url("form.css");
+@import url("typography.css");
+
+:root {
+    /* Font color */
+    --blue: blue;
+    --white: white;
+
+    /* Background color  */
+
+    /* Font family */
+    --font: sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
